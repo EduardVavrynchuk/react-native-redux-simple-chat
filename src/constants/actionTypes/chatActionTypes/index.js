@@ -1,0 +1,2 @@
+export const CHAT_SET_MESSAGE = 'CHAT::SET_MESSAGE';
+export const CHAT_SET_HISTORY = 'CHAT::SET_HISTORY';
