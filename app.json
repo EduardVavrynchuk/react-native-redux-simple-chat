@@ -1,0 +1,12 @@
+{
+  "name": "chat-redux",
+  "displayName": "chat-redux",
+  "expo": {
+    "name": "chat-redux",
+    "slug": "chat-redux",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
